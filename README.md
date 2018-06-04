@@ -8,7 +8,7 @@ A template to start projects faster. (One Paragraph of project description goes 
 
 ## Getting Started
 
-1. Install Unreal Engine (https://unrealengine.com/) version 4.18.
+1. Install Unreal Engine (https://unrealengine.com/) version 4.19.
 
 2. Install the plugins from the following section (some of them might already be included in the project's ./Plugins directory).
 
@@ -16,12 +16,12 @@ A template to start projects faster. (One Paragraph of project description goes 
 
 ## Plugins
 
-- Linter (https://www.unrealengine.com/marketplace/linter) 
+- [Low Entry - Extended Standard Library](https://www.unrealengine.com/marketplace/low-entry-extended-standard-library)
 
 
 
 ## Authors
 
-- Corentin Derbre
+- [Corentin Derbre](https://corentin.xyz)
 
 - http://concretegames.xyz
