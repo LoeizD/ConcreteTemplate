@@ -16,12 +16,12 @@ A template to start projects faster. (One Paragraph of project description goes 
 
 ## Plugins
 
-- Linter (https://www.unrealengine.com/marketplace/linter) 
+- 
 
 
 
 ## Authors
 
-- Corentin Derbre
+- [Corentin Derbre](https://corentin.xyz/)
 
 - http://concretegames.xyz
